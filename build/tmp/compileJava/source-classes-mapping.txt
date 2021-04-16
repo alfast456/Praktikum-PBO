@@ -1,2 +1,14 @@
-Praktikum2/DemoFuntion.java
- Praktikum2.DemoFuntion
+com/alfa/praktikumpbo/pertemuan2/guided/Object.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Object
+com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Manusia
+com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Passed
+com/alfa/praktikumpbo/pertemuan2/guided/TestPass.java
+ com.alfa.praktikumpbo.pertemuan2.guided.TestPass
+com/alfa/praktikumpbo/pertemuan2/guided/DemoFuntion.java
+ com.alfa.praktikumpbo.pertemuan2.guided.DemoFuntion
+com/alfa/praktikumpbo/pertemuan2/guided/Mahasiswa.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Mahasiswa
+com/alfa/praktikumpbo/pertemuan2/guided/DemoManusia.java
+ com.alfa.praktikumpbo.pertemuan2.guided.DemoManusia

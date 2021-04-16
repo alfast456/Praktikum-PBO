@@ -3,8 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Praktikum2;
-import java.util.Scanner;
+package com.alfa.praktikumpbo.pertemuan2.guided;
 /**
  *
  * @author HP
@@ -16,7 +15,7 @@ public class DemoFuntion {
         drawSquare(2,2);
     }
     /**
-     * @param args the command line arguments
+     * @param length
      */
     public static void drawTriangle(int length) {
         // TODO code application logic here
