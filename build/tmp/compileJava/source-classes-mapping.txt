@@ -1,14 +1,34 @@
-com/alfa/praktikumpbo/pertemuan2/guided/Object.java
- com.alfa.praktikumpbo.pertemuan2.guided.Object
+com/alfa/praktikumpbo/pertemuan1/guided/DemoScanner.java
+ com.alfa.praktikumpbo.pertemuan1.guided.DemoScanner
+com/alfa/praktikumpbo/pertemuan1/guided/DemoPrint.java
+ com.alfa.praktikumpbo.pertemuan1.guided.DemoPrint
+com/alfa/praktikumpbo/pertemuan2/guided/DemoManusia.java
+ com.alfa.praktikumpbo.pertemuan2.guided.DemoManusia
+com/alfa/praktikumpbo/pertemuan2/unguided/Nomor2.java
+ com.alfa.praktikumpbo.pertemuan2.unguided.Nomor2
+com/alfa/praktikumpbo/pertemuan1/unguided/No3.java
+ com.alfa.praktikumpbo.pertemuan1.unguided.No3
 com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
  com.alfa.praktikumpbo.pertemuan2.guided.Manusia
-com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
- com.alfa.praktikumpbo.pertemuan2.guided.Passed
+com/alfa/praktikumpbo/pertemuan1/unguided/No2.java
+ com.alfa.praktikumpbo.pertemuan1.unguided.No2
 com/alfa/praktikumpbo/pertemuan2/guided/TestPass.java
  com.alfa.praktikumpbo.pertemuan2.guided.TestPass
+com/alfa/praktikumpbo/pertemuan2/unguided/Nomor1.java
+ com.alfa.praktikumpbo.pertemuan2.unguided.Nomor1
+com/alfa/praktikumpbo/pertemuan1/guided/DemoLoop.java
+ com.alfa.praktikumpbo.pertemuan1.guided.DemoLoop
 com/alfa/praktikumpbo/pertemuan2/guided/DemoFuntion.java
  com.alfa.praktikumpbo.pertemuan2.guided.DemoFuntion
 com/alfa/praktikumpbo/pertemuan2/guided/Mahasiswa.java
  com.alfa.praktikumpbo.pertemuan2.guided.Mahasiswa
-com/alfa/praktikumpbo/pertemuan2/guided/DemoManusia.java
- com.alfa.praktikumpbo.pertemuan2.guided.DemoManusia
+com/alfa/praktikumpbo/pertemuan1/guided/DemoIf.java
+ com.alfa.praktikumpbo.pertemuan1.guided.DemoIf
+com/alfa/praktikumpbo/pertemuan2/guided/Object.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Object
+com/alfa/praktikumpbo/pertemuan2/unguided/classNomor2.java
+ com.alfa.praktikumpbo.pertemuan2.unguided.classNomor2
+com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Passed
+com/alfa/praktikumpbo/pertemuan1/unguided/No1.java
+ com.alfa.praktikumpbo.pertemuan1.unguided.No1
