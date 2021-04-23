@@ -8,6 +8,8 @@ com/alfa/praktikumpbo/pertemuan2/unguided/Nomor2.java
  com.alfa.praktikumpbo.pertemuan2.unguided.Nomor2
 com/alfa/praktikumpbo/pertemuan1/unguided/No3.java
  com.alfa.praktikumpbo.pertemuan1.unguided.No3
+com/alfa/praktikumpbo/pertemuan3/guided/ArrayNotSoBasic.java
+ com.alfa.praktikumpbo.pertemuan3.guided.ArrayNotSoBasic
 com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
  com.alfa.praktikumpbo.pertemuan2.guided.Manusia
 com/alfa/praktikumpbo/pertemuan1/unguided/No2.java
@@ -30,5 +32,15 @@ com/alfa/praktikumpbo/pertemuan2/unguided/classNomor2.java
  com.alfa.praktikumpbo.pertemuan2.unguided.classNomor2
 com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
  com.alfa.praktikumpbo.pertemuan2.guided.Passed
+com/alfa/praktikumpbo/pertemuan3/guided/ArrayBasic.java
+ com.alfa.praktikumpbo.pertemuan3.guided.ArrayBasic
 com/alfa/praktikumpbo/pertemuan1/unguided/No1.java
  com.alfa.praktikumpbo.pertemuan1.unguided.No1
+com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Item.java
+ com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Item
+com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Pembeli.java
+ com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Pembeli
+com/alfa/praktikumpbo/pertemuan3/guided/ArrayVariableLength.java
+ com.alfa.praktikumpbo.pertemuan3.guided.ArrayVariableLength
+com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Mian.java
+ com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Mian
