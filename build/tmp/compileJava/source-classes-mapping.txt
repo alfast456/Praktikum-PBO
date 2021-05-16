@@ -84,3 +84,13 @@ com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
  com.alfa.praktikumpbo.pertemuan5.unguided.Guy
 com/alfa/praktikumpbo/pertemuan5/unguided/Main.java
  com.alfa.praktikumpbo.pertemuan5.unguided.Main
+com/alfa/praktikumpbo/pertemuan5/guided/overloading/Main.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overloading.Main
+com/alfa/praktikumpbo/pertemuan5/guided/overloading/Chef.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overloading.Chef
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Main.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Main
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Hewan.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Hewan
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Kucing.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Kucing
