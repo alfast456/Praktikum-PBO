@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.alfa.praktikumpbo.pertemuan4.unguided;
+package com.alfa.praktikumpbo.pertemuan5.unguided;
 
 import java.util.Scanner;
 
@@ -33,23 +33,23 @@ public class Main {
 
             switch(nav){
                 case 1:
-                    Cewek cewek = new Cewek("Suzy Ozawa");
-                    System.out.print("Bot : ");
-                    cewek.showChat();
+                    botChat botchat = new botChat("Ariel");
+                    System.out.print("BOT : ");
+                    botchat.showChat();
                     System.out.println("");
                     break;
 
                 case 2:
-                    Parent cowok = new Cowok("Jordi");
-                    System.out.print("Bot : ");
-                    cowok.showChat();
+                    botChat cowok = new botChat("Jordi");
+                    System.out.print("BOT : ");
+                    cowok.showChat("Hinata");
                     System.out.println("");
                     break;
                     
                 case 3:
-                    Guy guy = new Guy("banci andang");
-                    System.out.print("Bot : ");
-                    guy.showChat();
+                    botChat guy = new Guy("banci andhang");
+                    System.out.print("BOT : ");
+                    guy.showChat();// memanggil method di kelas botChat
                     System.out.println("");
                     break;
 

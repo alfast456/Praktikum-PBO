@@ -18,5 +18,4 @@ public class Person {
         else
             System.out.println("Namaku " + name);
     }
-    
 }
