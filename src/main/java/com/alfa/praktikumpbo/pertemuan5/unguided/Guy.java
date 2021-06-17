@@ -14,6 +14,7 @@ public class Guy extends botChat{
     public Guy(String bot) {
         super(bot);
     }
+    @Override
     public void showChat() {
         System.out.println("Anda Sedang chat dengan " + bot);
     }

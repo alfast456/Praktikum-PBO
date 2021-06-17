@@ -11,6 +11,7 @@ package com.alfa.praktikumpbo.pertemuan5.guided.overriding;
  */
 public class Kucing extends Hewan{
     public void nama(){
-        System.out.println("Kucing merupakah salah satu nama hewan");
+        System.out.println("Kucing merupakah salah satu "
+                + "Snama hewan");
     }
 }

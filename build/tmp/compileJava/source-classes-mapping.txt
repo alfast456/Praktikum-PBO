@@ -80,17 +80,41 @@ com/alfa/praktikumpbo/pertemuan2/guided/Object.java
  com.alfa.praktikumpbo.pertemuan2.guided.Object
 com/alfa/praktikumpbo/pertemuan5/unguided/botChat.java
  com.alfa.praktikumpbo.pertemuan5.unguided.botChat
-com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
- com.alfa.praktikumpbo.pertemuan5.unguided.Guy
-com/alfa/praktikumpbo/pertemuan5/unguided/Main.java
- com.alfa.praktikumpbo.pertemuan5.unguided.Main
-com/alfa/praktikumpbo/pertemuan5/guided/overloading/Main.java
- com.alfa.praktikumpbo.pertemuan5.guided.overloading.Main
-com/alfa/praktikumpbo/pertemuan5/guided/overloading/Chef.java
- com.alfa.praktikumpbo.pertemuan5.guided.overloading.Chef
-com/alfa/praktikumpbo/pertemuan5/guided/overriding/Main.java
- com.alfa.praktikumpbo.pertemuan5.guided.overriding.Main
-com/alfa/praktikumpbo/pertemuan5/guided/overriding/Hewan.java
- com.alfa.praktikumpbo.pertemuan5.guided.overriding.Hewan
 com/alfa/praktikumpbo/pertemuan5/guided/overriding/Kucing.java
  com.alfa.praktikumpbo.pertemuan5.guided.overriding.Kucing
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Main.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Main
+com/alfa/praktikumpbo/pertemuan5/guided/overloading/Main.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overloading.Main
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Hewan.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Hewan
+com/alfa/praktikumpbo/pertemuan5/guided/overloading/Chef.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overloading.Chef
+com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
+ com.alfa.praktikumpbo.pertemuan5.unguided.Guy
+com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Mahasiswa.java
+ com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.Mahasiswa
+com/alfa/praktikumpbo/pertemuan5/unguided/Main.java
+ com.alfa.praktikumpbo.pertemuan5.unguided.Main
+com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Matkul.java
+ com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.Matkul
+com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/MahasiswaDosen.java
+ com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.MahasiswaDosen
+com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Jurusan.java
+ com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Jurusan
+com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Dosen.java
+ com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Dosen
+com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Main.java
+ com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Main
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Mobil.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Mobil
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Main.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Main
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Roda.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Roda
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Harga.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Harga
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Handphone.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Handphone
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Main.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Main

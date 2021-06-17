@@ -19,12 +19,14 @@ public class Chef {
     
     // Method memasak (original)
     public void memasak(){
-        System.out.println("Chef " + nama + " sedang memasak sesuatu!");
+        System.out.println("Chef " + nama + " sedang memasak "
+                + "sesuatu!");
     }
     
     // Method memasak (overloaded)
     public void memasak(String namaMakanan){
-        System.out.println("Chef " + nama + " sedang memasak " + namaMakanan);
+        System.out.println("Chef " + nama + " sedang memasak " 
+                + namaMakanan);
     }
 }
 
