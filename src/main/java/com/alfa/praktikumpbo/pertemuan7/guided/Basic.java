@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nama.praktikumpbo.pertemuan7.guided;
+package com.alfa.praktikumpbo.pertemuan7.guided;
 
 /**
  *
- * @author HP
+ * @author HPS
  */
 public class Basic {
 
@@ -24,6 +24,5 @@ public class Basic {
         catch(ArrayIndexOutOfBoundsException e){
             System.out.println("Error : Array tidak sebesar itu!");
         }
-    }
-    
+    } 
 }

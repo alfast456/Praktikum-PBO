@@ -54,6 +54,8 @@ com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
  com.alfa.praktikumpbo.pertemuan2.guided.Manusia
 com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Dosen.java
  com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Dosen
+com/nama/praktikumpbo/pertemuan7/guided/MultipleCatch.java
+ com.nama.praktikumpbo.pertemuan7.guided.MultipleCatch
 com/alfa/praktikumpbo/pertemuan2/guided/Object.java
  com.alfa.praktikumpbo.pertemuan2.guided.Object
 com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Mian.java
@@ -68,12 +70,16 @@ com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Roda.java
  com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Roda
 com/alfa/praktikumpbo/pertemuan4/guided/cth2/Main2.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth2.Main2
+com/nama/praktikumpbo/pertemuan7/guided/MultipleException.java
+ com.nama.praktikumpbo.pertemuan7.guided.MultipleException
 com/alfa/praktikumpbo/pertemuan1/unguided/No3.java
  com.alfa.praktikumpbo.pertemuan1.unguided.No3
 com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Main.java
  com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Main
 com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Mahasiswa.java
  com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.Mahasiswa
+com/alfa/praktikumpbo/pertemuan4/unguided/Parent.java
+ com.alfa.praktikumpbo.pertemuan4.unguided.Parent
 com/alfa/praktikumpbo/pertemuan5/unguided/Main.java
  com.alfa.praktikumpbo.pertemuan5.unguided.Main
 com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Matkul.java
@@ -116,11 +122,7 @@ com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
  com.alfa.praktikumpbo.pertemuan5.unguided.Guy
 com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
  com.alfa.praktikumpbo.pertemuan2.guided.Passed
-com/alfa/praktikumpbo/pertemuan4/unguided/Parent.java
- com.alfa.praktikumpbo.pertemuan4.unguided.Parent
 com/nama/praktikumpbo/pertemuan7/guided/Basic.java
  com.nama.praktikumpbo.pertemuan7.guided.Basic
-com/nama/praktikumpbo/pertemuan7/guided/MultipleCatch.java
- com.nama.praktikumpbo.pertemuan7.guided.MultipleCatch
-com/nama/praktikumpbo/pertemuan7/guided/MultipleException.java
- com.nama.praktikumpbo.pertemuan7.guided.MultipleException
+com/nama/praktikumpbo/pertemuan7/unguided/Main.java
+ com.nama.praktikumpbo.pertemuan7.unguided.Main
