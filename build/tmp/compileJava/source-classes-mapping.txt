@@ -1,23 +1,21 @@
 com/alfa/praktikumpbo/pertemuan1/guided/DemoScanner.java
  com.alfa.praktikumpbo.pertemuan1.guided.DemoScanner
-com/alfa/praktikumpbo/pertemuan4/guided/cth2/Main2.java
- com.alfa.praktikumpbo.pertemuan4.guided.cth2.Main2
 com/alfa/praktikumpbo/pertemuan2/unguided/Nomor2.java
  com.alfa.praktikumpbo.pertemuan2.unguided.Nomor2
-com/alfa/praktikumpbo/pertemuan1/unguided/No3.java
- com.alfa.praktikumpbo.pertemuan1.unguided.No3
+com/alfa/praktikumpbo/pertemuan5/guided/overloading/Chef.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overloading.Chef
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Handphone.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Handphone
 com/alfa/praktikumpbo/pertemuan4/guided/cth2/Main.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth2.Main
 com/alfa/praktikumpbo/pertemuan4/unguided/Main.java
  com.alfa.praktikumpbo.pertemuan4.unguided.Main
-com/alfa/praktikumpbo/pertemuan4/unguided/Parent.java
- com.alfa.praktikumpbo.pertemuan4.unguided.Parent
 com/alfa/praktikumpbo/pertemuan3/unguided/Paket.java
  com.alfa.praktikumpbo.pertemuan3.unguided.Paket
-com/alfa/praktikumpbo/pertemuan2/guided/DemoFuntion.java
- com.alfa.praktikumpbo.pertemuan2.guided.DemoFuntion
-com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Pembeli.java
- com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Pembeli
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Main.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Main
+com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Harga.java
+ com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Harga
 com/alfa/praktikumpbo/pertemuan3/unguided/Menu.java
  com.alfa.praktikumpbo.pertemuan3.unguided.Menu
 com/alfa/praktikumpbo/pertemuan1/guided/DemoIf.java
@@ -26,95 +24,103 @@ com/alfa/praktikumpbo/pertemuan4/guided/cth2/Rabbit.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth2.Rabbit
 com/alfa/praktikumpbo/pertemuan4/guided/cth1/Friend.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth1.Friend
-com/alfa/praktikumpbo/pertemuan2/unguided/classNomor2.java
- com.alfa.praktikumpbo.pertemuan2.unguided.classNomor2
+com/alfa/praktikumpbo/pertemuan5/unguided/botChat.java
+ com.alfa.praktikumpbo.pertemuan5.unguided.botChat
 com/alfa/praktikumpbo/pertemuan3/unguided/Order.java
  com.alfa.praktikumpbo.pertemuan3.unguided.Order
-com/alfa/praktikumpbo/pertemuan4/unguided/Cewek.java
- com.alfa.praktikumpbo.pertemuan4.unguided.Cewek
 com/alfa/praktikumpbo/pertemuan3/guided/ArrayBasic.java
  com.alfa.praktikumpbo.pertemuan3.guided.ArrayBasic
 com/alfa/praktikumpbo/pertemuan1/unguided/No1.java
  com.alfa.praktikumpbo.pertemuan1.unguided.No1
-com/alfa/praktikumpbo/pertemuan3/guided/ArrayVariableLength.java
- com.alfa.praktikumpbo.pertemuan3.guided.ArrayVariableLength
-com/alfa/praktikumpbo/pertemuan4/unguided/Guy.java
- com.alfa.praktikumpbo.pertemuan4.unguided.Guy
-com/alfa/praktikumpbo/pertemuan4/guided/cth2/Dog.java
- com.alfa.praktikumpbo.pertemuan4.guided.cth2.Dog
-com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Mian.java
- com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Mian
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Main.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Main
 com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Item.java
  com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Item
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Hewan.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Hewan
 com/alfa/praktikumpbo/pertemuan1/guided/DemoPrint.java
  com.alfa.praktikumpbo.pertemuan1.guided.DemoPrint
 com/alfa/praktikumpbo/pertemuan4/guided/cth1/Main.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth1.Main
-com/alfa/praktikumpbo/pertemuan4/guided/cth2/Cat.java
- com.alfa.praktikumpbo.pertemuan4.guided.cth2.Cat
-com/alfa/praktikumpbo/pertemuan4/unguided/Cowok.java
- com.alfa.praktikumpbo.pertemuan4.unguided.Cowok
 com/alfa/praktikumpbo/pertemuan2/guided/DemoManusia.java
  com.alfa.praktikumpbo.pertemuan2.guided.DemoManusia
 com/alfa/praktikumpbo/pertemuan4/guided/cth1/Person.java
  com.alfa.praktikumpbo.pertemuan4.guided.cth1.Person
-com/alfa/praktikumpbo/pertemuan3/guided/ArrayNotSoBasic.java
- com.alfa.praktikumpbo.pertemuan3.guided.ArrayNotSoBasic
-com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
- com.alfa.praktikumpbo.pertemuan2.guided.Manusia
-com/alfa/praktikumpbo/pertemuan1/unguided/No2.java
- com.alfa.praktikumpbo.pertemuan1.unguided.No2
-com/alfa/praktikumpbo/pertemuan2/guided/TestPass.java
- com.alfa.praktikumpbo.pertemuan2.guided.TestPass
-com/alfa/praktikumpbo/pertemuan2/unguided/Nomor1.java
- com.alfa.praktikumpbo.pertemuan2.unguided.Nomor1
-com/alfa/praktikumpbo/pertemuan1/guided/DemoLoop.java
- com.alfa.praktikumpbo.pertemuan1.guided.DemoLoop
-com/alfa/praktikumpbo/pertemuan4/guided/cth2/Animal.java
- com.alfa.praktikumpbo.pertemuan4.guided.cth2.Animal
-com/alfa/praktikumpbo/pertemuan2/guided/Mahasiswa.java
- com.alfa.praktikumpbo.pertemuan2.guided.Mahasiswa
-com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
- com.alfa.praktikumpbo.pertemuan2.guided.Passed
-com/alfa/praktikumpbo/pertemuan2/guided/Object.java
- com.alfa.praktikumpbo.pertemuan2.guided.Object
-com/alfa/praktikumpbo/pertemuan5/unguided/botChat.java
- com.alfa.praktikumpbo.pertemuan5.unguided.botChat
-com/alfa/praktikumpbo/pertemuan5/guided/overriding/Kucing.java
- com.alfa.praktikumpbo.pertemuan5.guided.overriding.Kucing
-com/alfa/praktikumpbo/pertemuan5/guided/overriding/Main.java
- com.alfa.praktikumpbo.pertemuan5.guided.overriding.Main
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Mobil.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Mobil
 com/alfa/praktikumpbo/pertemuan5/guided/overloading/Main.java
  com.alfa.praktikumpbo.pertemuan5.guided.overloading.Main
-com/alfa/praktikumpbo/pertemuan5/guided/overriding/Hewan.java
- com.alfa.praktikumpbo.pertemuan5.guided.overriding.Hewan
-com/alfa/praktikumpbo/pertemuan5/guided/overloading/Chef.java
- com.alfa.praktikumpbo.pertemuan5.guided.overloading.Chef
-com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
- com.alfa.praktikumpbo.pertemuan5.unguided.Guy
+com/alfa/praktikumpbo/pertemuan2/guided/Manusia.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Manusia
+com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Dosen.java
+ com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Dosen
+com/alfa/praktikumpbo/pertemuan2/guided/Object.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Object
+com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Mian.java
+ com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Mian
+com/alfa/praktikumpbo/pertemuan4/unguided/Cewek.java
+ com.alfa.praktikumpbo.pertemuan4.unguided.Cewek
+com/alfa/praktikumpbo/pertemuan2/unguided/classNomor2.java
+ com.alfa.praktikumpbo.pertemuan2.unguided.classNomor2
+com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Jurusan.java
+ com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Jurusan
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Roda.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Roda
+com/alfa/praktikumpbo/pertemuan4/guided/cth2/Main2.java
+ com.alfa.praktikumpbo.pertemuan4.guided.cth2.Main2
+com/alfa/praktikumpbo/pertemuan1/unguided/No3.java
+ com.alfa.praktikumpbo.pertemuan1.unguided.No3
+com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Main.java
+ com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Main
 com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Mahasiswa.java
  com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.Mahasiswa
 com/alfa/praktikumpbo/pertemuan5/unguided/Main.java
  com.alfa.praktikumpbo.pertemuan5.unguided.Main
 com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/Matkul.java
  com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.Matkul
-com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/MahasiswaDosen.java
- com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.MahasiswaDosen
-com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Jurusan.java
- com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Jurusan
-com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Dosen.java
- com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Dosen
+com/alfa/praktikumpbo/pertemuan2/guided/DemoFuntion.java
+ com.alfa.praktikumpbo.pertemuan2.guided.DemoFuntion
+com/alfa/praktikumpbo/pertemuan3/guided/restaurant/Pembeli.java
+ com.alfa.praktikumpbo.pertemuan3.guided.restaurant.Pembeli
+com/alfa/praktikumpbo/pertemuan3/guided/ArrayVariableLength.java
+ com.alfa.praktikumpbo.pertemuan3.guided.ArrayVariableLength
+com/alfa/praktikumpbo/pertemuan4/unguided/Guy.java
+ com.alfa.praktikumpbo.pertemuan4.unguided.Guy
 com/alfa/praktikumpbo/pertemuan6/guided/agregasi/Main.java
  com.alfa.praktikumpbo.pertemuan6.guided.agregasi.Main
-com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Mobil.java
- com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Mobil
-com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Main.java
- com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Main
-com/alfa/praktikumpbo/pertemuan6/guided/komposisi/Roda.java
- com.alfa.praktikumpbo.pertemuan6.guided.komposisi.Roda
-com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Harga.java
- com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Harga
-com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Handphone.java
- com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Handphone
-com/alfa/praktikumpbo/pertemuan6/unguided/komposisi/Main.java
- com.alfa.praktikumpbo.pertemuan6.unguided.komposisi.Main
+com/alfa/praktikumpbo/pertemuan4/guided/cth2/Dog.java
+ com.alfa.praktikumpbo.pertemuan4.guided.cth2.Dog
+com/alfa/praktikumpbo/pertemuan5/guided/overriding/Kucing.java
+ com.alfa.praktikumpbo.pertemuan5.guided.overriding.Kucing
+com/alfa/praktikumpbo/pertemuan4/guided/cth2/Cat.java
+ com.alfa.praktikumpbo.pertemuan4.guided.cth2.Cat
+com/alfa/praktikumpbo/pertemuan4/unguided/Cowok.java
+ com.alfa.praktikumpbo.pertemuan4.unguided.Cowok
+com/alfa/praktikumpbo/pertemuan3/guided/ArrayNotSoBasic.java
+ com.alfa.praktikumpbo.pertemuan3.guided.ArrayNotSoBasic
+com/alfa/praktikumpbo/pertemuan1/unguided/No2.java
+ com.alfa.praktikumpbo.pertemuan1.unguided.No2
+com/alfa/praktikumpbo/pertemuan2/guided/TestPass.java
+ com.alfa.praktikumpbo.pertemuan2.guided.TestPass
+com/alfa/praktikumpbo/pertemuan2/unguided/Nomor1.java
+ com.alfa.praktikumpbo.pertemuan2.unguided.Nomor1
+com/alfa/praktikumpbo/pertemuan6/guided/asosiasi/MahasiswaDosen.java
+ com.alfa.praktikumpbo.pertemuan6.guided.asosiasi.MahasiswaDosen
+com/alfa/praktikumpbo/pertemuan1/guided/DemoLoop.java
+ com.alfa.praktikumpbo.pertemuan1.guided.DemoLoop
+com/alfa/praktikumpbo/pertemuan4/guided/cth2/Animal.java
+ com.alfa.praktikumpbo.pertemuan4.guided.cth2.Animal
+com/alfa/praktikumpbo/pertemuan2/guided/Mahasiswa.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Mahasiswa
+com/alfa/praktikumpbo/pertemuan5/unguided/Guy.java
+ com.alfa.praktikumpbo.pertemuan5.unguided.Guy
+com/alfa/praktikumpbo/pertemuan2/guided/Passed.java
+ com.alfa.praktikumpbo.pertemuan2.guided.Passed
+com/alfa/praktikumpbo/pertemuan4/unguided/Parent.java
+ com.alfa.praktikumpbo.pertemuan4.unguided.Parent
+com/nama/praktikumpbo/pertemuan7/guided/Basic.java
+ com.nama.praktikumpbo.pertemuan7.guided.Basic
+com/nama/praktikumpbo/pertemuan7/guided/MultipleCatch.java
+ com.nama.praktikumpbo.pertemuan7.guided.MultipleCatch
+com/nama/praktikumpbo/pertemuan7/guided/MultipleException.java
+ com.nama.praktikumpbo.pertemuan7.guided.MultipleException
